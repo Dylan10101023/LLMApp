@@ -29,3 +29,6 @@ Small LLM app that helps a student study using their own notes (RAG-based Q&A an
    ```bash
    python -m venv .venv
    source .venv/bin/activate  # Windows: .venv\Scripts\activate
+
+## Youtube Link
+https://youtu.be/olW-EeU91fY
